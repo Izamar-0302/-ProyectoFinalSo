@@ -1,0 +1,6 @@
+C:\Users\Herreritas Eucedas\Downloads\SimuladorProcesosGUI\SimuladorProcesosGUI\x64\Debug\SimuladorProcesosGUI.vcxproj.AssemblyReference.cache
+C:\Users\Herreritas Eucedas\Downloads\SimuladorProcesosGUI\SimuladorProcesosGUI\x64\Debug\SimuladorProcesosGUI.Form1.resources
+C:\Users\Herreritas Eucedas\Downloads\SimuladorProcesosGUI\SimuladorProcesosGUI\x64\Debug\SimuladorProcesosGUI.vcxproj.GenerateResource.cache
+C:\Users\Herreritas Eucedas\Downloads\ProyectoSo\SimuladorProcesosGUI\SimuladorProcesosGUI\x64\Debug\SimuladorProcesosGUI.vcxproj.AssemblyReference.cache
+C:\Users\Herreritas Eucedas\Downloads\ProyectoSo\SimuladorProcesosGUI\SimuladorProcesosGUI\x64\Debug\SimuladorProcesosGUI.Form1.resources
+C:\Users\Herreritas Eucedas\Downloads\ProyectoSo\SimuladorProcesosGUI\SimuladorProcesosGUI\x64\Debug\SimuladorProcesosGUI.vcxproj.GenerateResource.cache
